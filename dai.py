@@ -1,0 +1,2 @@
+print("duma")
+print("dai")
